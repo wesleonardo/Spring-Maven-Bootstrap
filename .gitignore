@@ -1,3 +1,2 @@
 
-target/
-target/classes/hello/HelloWorld.class
+target/*
